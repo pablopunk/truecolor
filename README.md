@@ -20,6 +20,16 @@ $ npx truecolor
 
 You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/truecolor/blob/master/truecolor) and execute it.
 
+## How does it work
+
+If your terminal **does** support true color, you will see this smooth transition:
+
+![supported](https://github.com/pablopunk/art/raw/master/truecolor/supported.gif)
+
+Otherwise, if it's **not** supported, you'll see something like:
+
+![supported](https://github.com/pablopunk/art/raw/master/truecolor/not-supported.gif)
+
 
 # Related
 

@@ -5,7 +5,7 @@
     "truecolor": "truecolor"
   },
   "description": "Quickly show all your terminal colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/truecolor/issues",

@@ -6,19 +6,17 @@
 </p>
 
 <p align="center">
-  <i>Quickly show all your terminal colors</i>
+  <i>Quickly check if your terminal supports true color</i>
 </p>
 
 
 ## Install
 
-You need to have `bash` and `npm` installed.
+You need to have `bash`, `ruby` and `npm` installed.
 
 ```bash
 $ npx truecolor
 ```
-
-![shot](https://github.com/pablopunk/art/raw/master/truecolor/screenshot.png)
 
 You could also do it without `npm`. Just download [the script](https://github.com/pablopunk/truecolor/blob/master/truecolor) and execute it.
 

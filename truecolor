@@ -1,6 +1,9 @@
 #!/bin/bash
-# Code from https://twitter.com/josh_cheek/status/1116321447234940928
 
+LINES=$(tput lines)
+COLUMNS=$(tput cols)
+
+# Code from https://twitter.com/josh_cheek/status/1116321447234940928
 ruby -eh,w=$LINES,$COLUMNS'
 B=(0..20).map{[0,rand*h,rand*5,rand]}
 loop{B. map!{|x,y,v,a|[(x+v),y+a=y<0?-a:a-0.1,v,a]}

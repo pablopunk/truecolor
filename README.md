@@ -33,6 +33,7 @@ Otherwise, if it's **not** supported, you'll see something like:
 
 # Related
 
+* Quickly show all your terminal colors: [colortest](https://github.com/pablopunk/colortest)
 * Hyper theme: [hyper-native-dark](https://github.com/pablopunk/hyper-native-dark)
 * NPM package generator: [miny](https://github.com/pablopunk/miny)
 * Fast bash propmt: [bashy](https://github.com/pablopunk/bashy)
